@@ -1,0 +1,19 @@
+﻿  Reading Qt configuration (D:\QT\5.9.4\msvc2015_64\bin\qmake.exe)
+  uic ClientAutoUpdate.ui
+  uic error.ui
+  uic ProgressDialog.ui
+  moc ClientAutoUpdate.h
+  moc ProgressDialog.h
+  moc error.h
+  ClientAutoUpdate.cpp
+  Downloader.cpp
+  error.cpp
+  libcurl.cpp
+  main.cpp
+  ProgressDialog.cpp
+  moc_ClientAutoUpdate.cpp
+  moc_ProgressDialog.cpp
+  moc_error.cpp
+qtmain.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“qtmain.pdb”(使用“qtmain.lib(qtmain_win.obj)”或在“D:\CAU\ClientAutoUpdate\x64\Release\qtmain.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ClientAutoUpdate.vcxproj -> D:\CAU\ClientAutoUpdate\x64\Release\ClientAutoUpdate.exe
+  ClientAutoUpdate.vcxproj -> D:\CAU\ClientAutoUpdate\x64\Release\ClientAutoUpdate.pdb (Full PDB)

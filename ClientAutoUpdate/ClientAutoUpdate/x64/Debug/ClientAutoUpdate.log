@@ -1,0 +1,2 @@
+﻿  Reading Qt configuration (D:\QT\5.9.4\msvc2015_64\bin\qmake.exe)
+C:\Users\fl\AppData\Local\QtMsBuild\qt_vars.targets(268,5): warning MSB5021: 正在终止“cmd”及其子进程，以便取消生成。

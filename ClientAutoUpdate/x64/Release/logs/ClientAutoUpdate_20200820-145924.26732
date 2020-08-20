@@ -1,0 +1,7 @@
+Log file created at: 2020/08/20 14:59:24
+Running on machine: DESKTOP-9EUV3NR
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20200820 14:59:24.548666 31232 main.cpp:44] App start
+I20200820 14:59:31.752224 31232 ClientAutoUpdate.cpp:94] start ProgressDialog
+I20200820 14:59:31.773173 31232 ClientAutoUpdate.cpp:96] end ProgressDialog
+I20200820 14:59:31.779158 31232 ClientAutoUpdate.cpp:98] start readLocalXML
